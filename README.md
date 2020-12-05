@@ -12,3 +12,5 @@ So here is my work as part of my assignment for natural language preprocessing.
 I'm beginner so any improvements even a little ones will be appreciated.
 
 Link of the dataset : https://www.kaggle.com/manchunhui/us-election-2020-tweets
+
+Link of the article : https://www.mongodb.com/unstructured-data
